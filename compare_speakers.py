@@ -2,7 +2,6 @@ import os
 import librosa
 import torch
 import torch.nn.functional as F
-
 from transformers import WhisperProcessor, WhisperModel
 
 #Loading Whisper Foundation Model (Frozen)
