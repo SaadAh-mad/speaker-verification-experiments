@@ -1,0 +1,129 @@
+Run 1
+Same Speaker
+mini_voxceleb1/train/id10012-0AXjxNXiEzo-00001.wav 
+mini_voxceleb1/train/id10012-GQxAiL_gSJg-00002.wav
+
+Different Speaker 
+"mini_voxceleb1/train/id10012-0AXjxNXiEzo-00001.wav"
+"mini_voxceleb1/train/id10038-7Gd4Fz2UNxQ-00001.wav"
+
+Same Speaker Score: 0.7960
+Different Speaker Score: 0.6474
+Gap: 0.1487
+
+Run2 
+Same Speaker
+same_1 = "mini_voxceleb1/train/id10012-GQxAiL_gSJg-00014.wav"
+same_2 = "mini_voxceleb1/train/id10012-Mki-3pJgdMw-00001.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id10012-0AXjxNXiEzo-00001.wav"
+diff_2 = "mini_voxceleb1/train/id10038-7Gd4Fz2UNxQ-00016.wav"
+
+Same Speaker Score: 0.8232
+Different Speaker Score: 0.7134
+Gap: 0.1098
+
+Run3
+Same Speaker
+same_1 = "mini_voxceleb1/train/id10012-nCwwVjPNloY-00015.wav"
+same_2 = "mini_voxceleb1/train/id10012-o-8xXV5MC8I-00002.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id10038-7Gd4Fz2UNxQ-00022.wav"
+diff_2 = "mini_voxceleb1/train/id10012-UJFb8jDbWl0-00010.wav"
+
+Same Speaker Score: 0.8532
+Different Speaker Score: 0.5945
+Gap: 0.2587
+
+Run4 
+Same Speaker
+same_1 = "mini_voxceleb1/train/id10086-zt-ZKQPaDUQ-00005.wav"
+same_2 = "mini_voxceleb1/train/id10086-tqlzrcVQBJc-00005.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id10112-vKx61mGVM_A-00001.wav"
+diff_2 = "mini_voxceleb1/train/id10038-TwTFfOEifPU-00003.wav"
+
+Same Speaker Score: 0.6979
+Different Speaker Score: 0.7379
+Gap: -0.0400
+
+Run5 
+Same Speaker
+same_1 = "mini_voxceleb1/train/id10112-Bc9Ik7vdHnw-00002.wav"
+same_2 = "mini_voxceleb1/train/id10112-5JidksrmVGM-00001.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id10086-tN8q2rhCDec-00002.wav"
+diff_2 = "mini_voxceleb1/train/id10112-FncF3-pt9uo-00009.wav"
+
+Same Speaker Score: 0.7783
+Different Speaker Score: 0.7969
+Gap: -0.0186
+
+Run6 
+Same Speaker
+same_1 = "mini_voxceleb1/train/id10534-iuwBKfUerlk-00010.wav"
+same_2 = "mini_voxceleb1/train/id10534-iuwBKfUerlk-00003.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id10086-tN8q2rhCDec-00002.wav"
+diff_2 = "mini_voxceleb1/train/id10509-o0p1v4IdsAA-00006.wav"
+
+Same Speaker Score: 0.9179
+Different Speaker Score: 0.6050
+Gap: 0.3129
+
+Run7 
+Same Speaker
+same_1 = "mini_voxceleb1/train/id10445-q47gPbZG6wo-00016.wav"
+same_2 = "mini_voxceleb1/train/id10445-Sb9rXeXHngs-00008.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id11115-XwjzWXSWoqQ-00002.wav"
+diff_2 = "mini_voxceleb1/train/id10509-o0p1v4IdsAA-00006.wav"
+
+Same Speaker Score: 0.8500
+Different Speaker Score: 0.6282
+Gap: 0.2217
+
+Run8
+Same Speaker
+same_1 = "mini_voxceleb1/train/id10727-Ozg1zj_isZU-00004.wav"
+same_2 = "mini_voxceleb1/train/id10727-Ldjj32L0_xs-00009.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id10534-iuwBKfUerlk-00036.wav"
+diff_2 = "mini_voxceleb1/train/id10736-hpNk9r7CrJw-00002.wav"
+
+Same Speaker Score: 0.7855
+Different Speaker Score: 0.7521
+Gap: 0.0335
+
+Run9
+Same Speaker
+same_1 = "mini_voxceleb1/train/id10907-e8cYt8Kb56s-00024.wav"
+same_2 = "mini_voxceleb1/train/id10907-_mHuhk6Tyrw-00003.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id10534-iuwBKfUerlk-00036.wav"
+diff_2 = "mini_voxceleb1/train/id11083-D8RBqNpoqUM-00003.wav"
+
+Same Speaker Score: 0.7513
+Different Speaker Score: 0.5568
+Gap: 0.1945
+
+Run10
+Same Speaker
+same_1 = "mini_voxceleb1/train/id11132-OG_Pzr-UXdM-00006.wav"
+same_2 = "mini_voxceleb1/train/id11132-gM9BuqYleR4-00004.wav"
+
+Different Speaker
+diff_1 = "mini_voxceleb1/train/id10938-sTDdgK3bGlQ-00005.wav"
+diff_2 = "mini_voxceleb1/train/id10910-AwBMp1w8KKQ-00004.wav"
+
+Same Speaker Score: 0.7373
+Different Speaker Score: 0.4456
+Gap: 0.2918
