@@ -1,0 +1,23 @@
+Same speaker Pair 
+Run-1
+Layer 0: 0.9972
+Layer 1: 0.9975
+Layer 2: 0.9963
+Layer 3: 0.9942
+Layer 4: 0.9820
+
+Different speaker Pair
+Run-2
+Layer 0: 0.9578
+Layer 1: 0.9088
+Layer 2: 0.8976
+Layer 3: 0.8361
+Layer 4: 0.5250
+
+Different speaker Pair
+Run-3
+Layer 0: 0.9965
+Layer 1: 0.9981
+Layer 2: 0.9972
+Layer 3: 0.9974
+Layer 4: 0.9903
