@@ -1,0 +1,37 @@
+Different Speakers 
+file1 = "mini_voxceleb1/train/id10012-0AXjxNXiEzo-00001.wav"
+file2 = "mini_voxceleb1/train/id10189-KIse4_aC6FY-00003.wav"
+
+Layer 0: 0.9873
+Layer 1: 0.9901
+Layer 2: 0.9904
+Layer 3: 0.9920
+Layer 4: 0.9930
+Layer 5: 0.9946
+Layer 6: 0.9950
+Layer 7: 0.9983
+Layer 8: 0.9977
+Layer 9: 0.9982
+Layer 10: 0.9982
+Layer 11: 0.9986
+Layer 12: 0.9946
+
+
+file1 = "mini_voxceleb1/train/id11160-HO06Y9-2pss-00001.wav"
+file2 = "mini_voxceleb1/train/id10189-KIse4_aC6FY-00003.wav"
+Layer 0: 0.9950
+Layer 1: 0.9822
+Layer 2: 0.9815
+Layer 3: 0.9823
+Layer 4: 0.9816
+Layer 5: 0.9833
+Layer 6: 0.9803
+Layer 7: 0.9937
+Layer 8: 0.9928
+Layer 9: 0.9933
+Layer 10: 0.9932
+Layer 11: 0.9943
+Layer 12: 0.9659
+
+
+
