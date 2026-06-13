@@ -1,21 +1,25 @@
-Experiment 6
+# Experiment 6
 
 Model:
-WavLM Base
-Learnable Layer Weighting
-ASTP Pooling
+- WavLM Base
+- Learnable Layer Weighting
+- Attentive Statistics Pooling (ASTP)
 
 Dataset:
-MiniVoxCeleb
-30 speakers
-300 utterances
+- MiniVoxCeleb
+- 30 speakers
+- 300 utterances
 
 Evaluation:
-100 Same-Speaker Pairs
-100 Different-Speaker Pairs
+- 1000 same-speaker pairs
+- 1000 different-speaker pairs
 
 Results:
-Average Same Score = 0.5419
-Average Different Score = 0.2724
-Gap = 0.2694
-Accuracy = 92.5%
+
+Average Same Speaker Score: 0.5389
+
+Average Different Speaker Score: 0.2552
+
+Gap: 0.2837
+
+Accuracy: 89.8%
